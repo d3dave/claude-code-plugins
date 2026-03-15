@@ -1,0 +1,16 @@
+{
+  "name": "d3dave",
+  "owner": {
+    "name": "David Dorfman"
+  },
+  "plugins": [
+    {
+      "name": "bash-history",
+      "description": "Bash history plugin for Claude Code",
+      "source": {
+        "source": "github",
+        "repo": "d3dave/claude-code-bash-history"
+      }
+    }
+  ]
+}
