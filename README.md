@@ -1,4 +1,4 @@
-# d3dave Claude Code Plugins
+# Claude Code Plugins
 
 A [Claude Code plugin marketplace](https://code.claude.com/docs/en/plugin-marketplaces.md) by David Dorfman.
 
